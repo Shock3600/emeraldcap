@@ -32118,6 +32118,10 @@ static const u16 sCyclohmTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 
+static const u16 sFidgitTeachableLearnset[] = {
+    MOVE_UNAVAILABLE,
+};
+
 
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,

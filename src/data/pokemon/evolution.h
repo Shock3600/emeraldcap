@@ -611,4 +611,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 },
     [SPECIES_CYCLOHM]               = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
 },
+    [SPECIES_FIDGIT]                = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };

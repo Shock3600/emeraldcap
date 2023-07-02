@@ -914,6 +914,7 @@ const u16 *const gTeachableLearnsets[NUM_SPECIES] =
     [SPECIES_BASCULEGION] = sBasculegionTeachableLearnset,
     [SPECIES_SNEASLER] = sSneaslerTeachableLearnset,
     [SPECIES_OVERQWIL] = sOverqwilTeachableLearnset,
+    [SPECIES_FIDGIT] = sFidgitTeachableLearnset,
     [SPECIES_CYCLOHM] = sCyclohmTeachableLearnset,
     [SPECIES_COLOSSOIL] = sColossoilTeachableLearnset,
     [SPECIES_CARIBOLT] = sCariboltTeachableLearnset,
