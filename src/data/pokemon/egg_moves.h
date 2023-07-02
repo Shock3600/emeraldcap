@@ -4422,5 +4422,13 @@ const u16 gEggMoves[] = {
         MOVE_PSYCHO_SHIFT,
         MOVE_HEAL_PULSE),
 
+    egg_moves(SYCLANT,
+        MOVE_COUNTER,
+        MOVE_STRUGGLE_BUG,
+        MOVE_STRING_SHOT,
+        MOVE_DOUBLE_EDGE,
+        MOVE_EARTH_POWER,
+        MOVE_FELL_STINGER),
+
     EGG_MOVES_TERMINATOR
 };

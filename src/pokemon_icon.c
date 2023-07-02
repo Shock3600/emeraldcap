@@ -952,6 +952,7 @@ const u8 *const gMonIconTable[] =
     [SPECIES_MALACONDA] = gMonIcon_Malaconda,
     [SPECIES_MIASMAW] = gMonIcon_Miasmaw,
     [SPECIES_SNAELSTROM] = gMonIcon_Snaelstrom,
+    [SPECIES_SYCLANT] = gMonIcon_Syclant,
 
     [SPECIES_VENUSAUR_MEGA] = gMonIcon_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = gMonIcon_CharizardMegaX,
@@ -2256,6 +2257,7 @@ const u8 gMonIconPaletteIndices[] =
     [SPECIES_MALACONDA] = 1,
     [SPECIES_MIASMAW] = 1,
     [SPECIES_SNAELSTROM] = 1,
+    [SPECIES_SYCLANT] = 1,
     [SPECIES_VENUSAUR_MEGA] = 1,
     [SPECIES_CHARIZARD_MEGA_X] = 0,
     [SPECIES_CHARIZARD_MEGA_Y] = 0,
