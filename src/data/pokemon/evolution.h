@@ -619,4 +619,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 },
     [SPECIES_MIASMAW]               = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
 },
+    [SPECIES_SNAELSTROM]            = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };

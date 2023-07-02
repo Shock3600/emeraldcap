@@ -5452,7 +5452,14 @@ const u8 gMiasmawPokedexText[] = _(
     "It's really just a Tomato.\n"
     "Dont ask me why Tomato. I dont even\n"
     "like tomatos.");
+
+const u8 gSnaelstromPokedexText[] = _(
+    "This is not a actually Pokémon.\n"
+    "It's really just a Tomato.\n"
+    "Dont ask me why Tomato. I dont even\n"
+    "like tomatos.");
 #endif
+
 
 
 

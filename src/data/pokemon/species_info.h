@@ -21290,6 +21290,33 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .noFlip = FALSE,
     },
 
+    [SPECIES_SNAELSTROM] =
+    {
+        .baseHP        = 91,
+        .baseAttack    = 94,
+        .baseDefense   = 110,
+        .baseSpeed     = 63,
+        .baseSpAttack  = 80,
+        .baseSpDefense = 97,
+        .types = { TYPE_WATER, TYPE_BUG },
+        .catchRate = 128,
+        .expYield = 80,
+        .evYield_HP        = 0,
+        .evYield_Attack    = 0,
+        .evYield_Defense   = 0,
+        .evYield_SpAttack  = 0,
+        .evYield_SpDefense = 0,
+        .evYield_Speed     = 0,
+        .genderRatio = 128,
+        .eggCycles = 20,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_MEDIUM_FAST,
+        .eggGroups = { EGG_GROUP_UNDISCOVERED, EGG_GROUP_WATER_2 },
+        .abilities = { ABILITY_TORRENT, ABILITY_NONE, ABILITY_POISON_HEAL },
+        .bodyColor = BODY_COLOR_BLUE,
+        .noFlip = FALSE,
+    },
+
 
     [SPECIES_VENUSAUR_MEGA] =
     {

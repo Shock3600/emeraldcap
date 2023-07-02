@@ -10990,4 +10990,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_SNAELSTROM] =
+    {
+        .categoryName = _("Snaelstrom"),
+        .height = 10,
+        .weight = 100,
+        .description = gSnaelstromPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

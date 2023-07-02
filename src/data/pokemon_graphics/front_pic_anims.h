@@ -9557,6 +9557,11 @@ static const union AnimCmd sAnim_Miasmaw_1[] =
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
+static const union AnimCmd sAnim_Snaelstrom_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
 
 
 static const union AnimCmd sAnim_VenusaurMega_1[] =
@@ -11523,6 +11528,7 @@ SINGLE_ANIMATION(Fidgit);
 SINGLE_ANIMATION(Kitsunoh);
 SINGLE_ANIMATION(Malaconda);
 SINGLE_ANIMATION(Miasmaw);
+SINGLE_ANIMATION(Snaelstrom);
 
 SINGLE_ANIMATION(VenusaurMega);
 SINGLE_ANIMATION(CHARIZARD_MEGA_X);
@@ -12620,6 +12626,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     [SPECIES_KITSUNOH]    = sAnims_Kitsunoh,
     [SPECIES_MALACONDA]   = sAnims_Malaconda,
     [SPECIES_MIASMAW]     = sAnims_Miasmaw,
+    [SPECIES_SNAELSTROM]  = sAnims_Snaelstrom,
 
     [SPECIES_VENUSAUR_MEGA] = sAnims_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = sAnims_CHARIZARD_MEGA_X,
