@@ -603,4 +603,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 #endif
     [SPECIES_STRATAGEM]             = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
 },
+    [SPECIES_VOODOOM]               = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };

@@ -921,6 +921,7 @@ const struct MonCoords gMonFrontPicCoords[] =
     [SPECIES_ENAMORUS]                     = { .size = MON_COORDS_SIZE(64, 64), .y_offset =  0 },
 #endif
     [SPECIES_STRATAGEM]                    = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
+    [SPECIES_VOODOOM]                      = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
 
     // Megas
     [SPECIES_VENUSAUR_MEGA]                = { .size = MON_COORDS_SIZE(64, 64), .y_offset =  3 },

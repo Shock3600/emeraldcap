@@ -9517,6 +9517,11 @@ static const union AnimCmd sAnim_Stratagem_1[] =
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
+static const union AnimCmd sAnim_Voodoom_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
 
 
 static const union AnimCmd sAnim_VenusaurMega_1[] =
@@ -11475,6 +11480,7 @@ SINGLE_ANIMATION(Overqwil);
 SINGLE_ANIMATION(Enamorus);
 #endif
 SINGLE_ANIMATION(Stratagem);
+SINGLE_ANIMATION(Voodoom);
 
 SINGLE_ANIMATION(VenusaurMega);
 SINGLE_ANIMATION(CHARIZARD_MEGA_X);
@@ -12564,6 +12570,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     [SPECIES_ENAMORUS] = sAnims_Enamorus,
 #endif
     [SPECIES_STRATAGEM]   = sAnims_Stratagem,
+    [SPECIES_VOODOOM]     = sAnims_Voodoom,
 
     [SPECIES_VENUSAUR_MEGA] = sAnims_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = sAnims_CHARIZARD_MEGA_X,
