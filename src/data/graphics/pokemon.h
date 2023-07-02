@@ -934,6 +934,7 @@ const u32 gMonFrontPic_Colossoil[] = INCBIN_U32("graphics/pokemon/colossoil/anim
 const u32 gMonFrontPic_Cyclohm[] = INCBIN_U32("graphics/pokemon/cyclohm/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Fidgit[] = INCBIN_U32("graphics/pokemon/fidgit/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Kitsunoh[] = INCBIN_U32("graphics/pokemon/kitsunoh/anim_front.4bpp.lz");
+const u32 gMonFrontPic_Malaconda[] = INCBIN_U32("graphics/pokemon/malaconda/anim_front.4bpp.lz");
 
 const u32 gMonFrontPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/front.4bpp.lz");
 const u32 gMonFrontPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/front.4bpp.lz");
@@ -2154,6 +2155,7 @@ const u32 gMonBackPic_Colossoil[] = INCBIN_U32("graphics/pokemon/colossoil/back.
 const u32 gMonBackPic_Cyclohm[] = INCBIN_U32("graphics/pokemon/cyclohm/back.4bpp.lz");
 const u32 gMonBackPic_Fidgit[] = INCBIN_U32("graphics/pokemon/fidgit/back.4bpp.lz");
 const u32 gMonBackPic_Kitsunoh[] = INCBIN_U32("graphics/pokemon/kitsunoh/back.4bpp.lz");
+const u32 gMonBackPic_Malaconda[] = INCBIN_U32("graphics/pokemon/malaconda/back.4bpp.lz");
 
 const u32 gMonBackPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/back.4bpp.lz");
 const u32 gMonBackPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/back.4bpp.lz");
@@ -3368,6 +3370,7 @@ const u32 gMonPalette_Colossoil[] = INCBIN_U32("graphics/pokemon/colossoil/norma
 const u32 gMonPalette_Cyclohm[] = INCBIN_U32("graphics/pokemon/cyclohm/normal.gbapal.lz");
 const u32 gMonPalette_Fidgit[] = INCBIN_U32("graphics/pokemon/fidgit/normal.gbapal.lz");
 const u32 gMonPalette_Kitsunoh[] = INCBIN_U32("graphics/pokemon/kitsunoh/normal.gbapal.lz");
+const u32 gMonPalette_Malaconda[] = INCBIN_U32("graphics/pokemon/malaconda/normal.gbapal.lz");
 
 const u32 gMonPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/normal.gbapal.lz");
 const u32 gMonPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/normal.gbapal.lz");
@@ -4609,6 +4612,7 @@ const u32 gMonShinyPalette_Colossoil[] = INCBIN_U32("graphics/pokemon/colossoil/
 const u32 gMonShinyPalette_Cyclohm[] = INCBIN_U32("graphics/pokemon/cyclohm/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Fidgit[] = INCBIN_U32("graphics/pokemon/fidgit/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Kitsunoh[] = INCBIN_U32("graphics/pokemon/kitsunoh/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Malaconda[] = INCBIN_U32("graphics/pokemon/malaconda/shiny.gbapal.lz");
 
 const u32 gMonShinyPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/shiny.gbapal.lz");
 const u32 gMonShinyPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/shiny.gbapal.lz");
@@ -5844,6 +5848,7 @@ const u8 gMonIcon_Colossoil[] = INCBIN_U8("graphics/pokemon/colossoil/icon.4bpp"
 const u8 gMonIcon_Cyclohm[] = INCBIN_U8("graphics/pokemon/cyclohm/icon.4bpp");
 const u8 gMonIcon_Fidgit[] = INCBIN_U8("graphics/pokemon/fidgit/icon.4bpp");
 const u8 gMonIcon_Kitsunoh[] = INCBIN_U8("graphics/pokemon/kitsunoh/icon.4bpp");
+const u8 gMonIcon_Malaconda[] = INCBIN_U8("graphics/pokemon/malaconda/icon.4bpp");
 
 const u8 gMonIcon_VenusaurMega[] = INCBIN_U8("graphics/pokemon/venusaur/mega/icon.4bpp");
 const u8 gMonIcon_CharizardMegaX[] = INCBIN_U8("graphics/pokemon/charizard/mega_x/icon.4bpp");
@@ -7065,4 +7070,5 @@ const u8 gMonFootprint_Colossoil[] = INCBIN_U8("graphics/pokemon/colossoil/footp
 const u8 gMonFootprint_Cyclohm[] = INCBIN_U8("graphics/pokemon/cyclohm/footprint.1bpp");
 const u8 gMonFootprint_Fidgit[] = INCBIN_U8("graphics/pokemon/fidgit/footprint.1bpp");
 const u8 gMonFootprint_Kitsunoh[] = INCBIN_U8("graphics/pokemon/kitsunoh/footprint.1bpp");
+const u8 gMonFootprint_Malaconda[] = INCBIN_U8("graphics/pokemon/malaconda/footprint.1bpp");
 

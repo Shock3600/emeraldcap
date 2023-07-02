@@ -10966,4 +10966,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_MALACONDA] =
+    {
+        .categoryName = _("Malaconda"),
+        .height = 10,
+        .weight = 100,
+        .description = gMalacondaPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
