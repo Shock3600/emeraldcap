@@ -32110,6 +32110,10 @@ static const u16 sCariboltTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 
+static const u16 sColossoilTeachableLearnset[] = {
+    MOVE_UNAVAILABLE,
+};
+
 
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,

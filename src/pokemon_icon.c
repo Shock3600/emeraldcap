@@ -945,6 +945,7 @@ const u8 *const gMonIconTable[] =
     [SPECIES_STRATAGEM] = gMonIcon_Stratagem,
     [SPECIES_VOODOOM] = gMonIcon_Voodoom,
     [SPECIES_CARIBOLT] = gMonIcon_Caribolt,
+    [SPECIES_COLOSSOIL] = gMonIcon_Colossoil,
 
     [SPECIES_VENUSAUR_MEGA] = gMonIcon_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = gMonIcon_CharizardMegaX,
@@ -2242,6 +2243,7 @@ const u8 gMonIconPaletteIndices[] =
     [SPECIES_STRATAGEM] = 1,
     [SPECIES_VOODOOM] = 1,
     [SPECIES_CARIBOLT] = 1,
+    [SPECIES_COLOSSOIL] = 1,
     [SPECIES_VENUSAUR_MEGA] = 1,
     [SPECIES_CHARIZARD_MEGA_X] = 0,
     [SPECIES_CHARIZARD_MEGA_Y] = 0,
