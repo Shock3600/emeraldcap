@@ -915,6 +915,8 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
     [SPECIES_OVERQWIL] = _("Overqwil"),
     [SPECIES_ENAMORUS] = _("Enamorus"),
 #endif
+    [SPECIES_STRATAGEM] = _("Stratagem"),
+
 
     // Megas
     [SPECIES_VENUSAUR_MEGA] = _("Venusaur"),

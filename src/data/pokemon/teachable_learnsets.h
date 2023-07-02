@@ -32098,6 +32098,11 @@ static const u16 sEnamorusTeachableLearnset[] = {
 };
 #endif
 
+static const u16 sStratagemTeachableLearnset[] = {
+    MOVE_UNAVAILABLE,
+};
+
+
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,
     MOVE_CUT,

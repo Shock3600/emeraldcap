@@ -1108,6 +1108,7 @@ static const u8 sSpeciesToBackAnimSet[NUM_SPECIES] =
     [SPECIES_RAYQUAZA_MEGA]                = BACK_ANIM_SHAKE_GLOW_GREEN,
     [SPECIES_KYOGRE_PRIMAL]                = BACK_ANIM_SHAKE_GLOW_BLUE,
     [SPECIES_GROUDON_PRIMAL]               = BACK_ANIM_SHAKE_GLOW_RED,
+    [SPECIES_STRATAGEM]                    = BACK_ANIM_NONE,
     
 };
 

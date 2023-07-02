@@ -601,4 +601,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
     [SPECIES_SNEASEL_HISUIAN]       = {{EVO_ITEM_DAY, ITEM_RAZOR_CLAW, SPECIES_SNEASLER},
                                        {EVO_ITEM_HOLD_DAY, ITEM_RAZOR_CLAW, SPECIES_SNEASLER}},
 #endif
+    [SPECIES_STRATAGEM]             = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };

@@ -10881,4 +10881,17 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
 #endif
+
+    [NATIONAL_DEX_STRATAGEM] =
+    {
+        .categoryName = _("Stratagem"),
+        .height = 10,
+        .weight = 100,
+        .description = gStratagemPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

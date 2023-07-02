@@ -5398,4 +5398,11 @@ const u8 gEnamorusPokedexText[] = _(
     "winter. According to legend, this\n"
     "Pokémon's love gives rise to the\n"
     "budding of fresh life across the land.");
+
+const u8 gStratagemPokedexText[] = _(
+    "This is not a actually Pokémon.\n"
+    "It's really just a Tomato.\n"
+    "Dont ask me why Tomato. I dont even\n"
+    "like tomatos.");
 #endif
+
