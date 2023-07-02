@@ -923,6 +923,7 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
     [SPECIES_FIDGIT] = _("Fidgit"),
     [SPECIES_KITSUNOH] = _("Kitsunoh"),
     [SPECIES_MALACONDA] = _("Malaconda"),
+    [SPECIES_MIASMAW] = _("Miasmaw"),
 
 
     // Megas

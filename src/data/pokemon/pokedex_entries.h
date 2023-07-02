@@ -10978,4 +10978,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_MIASMAW] =
+    {
+        .categoryName = _("Miasmaw"),
+        .height = 10,
+        .weight = 100,
+        .description = gMiasmawPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

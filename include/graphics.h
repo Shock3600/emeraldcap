@@ -1002,6 +1002,7 @@ extern const u32 gMonFrontPic_Cyclohm[];
 extern const u32 gMonFrontPic_Fidgit[];
 extern const u32 gMonFrontPic_Kitsunoh[];
 extern const u32 gMonFrontPic_Malaconda[];
+extern const u32 gMonFrontPic_Miasmaw[];
 
 extern const u32 gMonFrontPic_VenusaurMega[];
 extern const u32 gMonFrontPic_CharizardMegaX[];
@@ -2225,6 +2226,7 @@ extern const u32 gMonBackPic_Cyclohm[];
 extern const u32 gMonBackPic_Fidgit[];
 extern const u32 gMonBackPic_Kitsunoh[];
 extern const u32 gMonBackPic_Malaconda[];
+extern const u32 gMonBackPic_Miasmaw[];
 
 extern const u32 gMonBackPic_VenusaurMega[];
 extern const u32 gMonBackPic_CharizardMegaX[];
@@ -3440,6 +3442,7 @@ extern const u32 gMonPalette_Cyclohm[];
 extern const u32 gMonPalette_Fidgit[];
 extern const u32 gMonPalette_Kitsunoh[];
 extern const u32 gMonPalette_Malaconda[];
+extern const u32 gMonPalette_Miasmaw[];
 
 extern const u32 gMonPalette_VenusaurMega[];
 extern const u32 gMonPalette_CharizardMegaX[];
@@ -4682,6 +4685,7 @@ extern const u32 gMonShinyPalette_Cyclohm[];
 extern const u32 gMonShinyPalette_Fidgit[];
 extern const u32 gMonShinyPalette_Kitsunoh[];
 extern const u32 gMonShinyPalette_Malaconda[];
+extern const u32 gMonShinyPalette_Miasmaw[];
 
 extern const u32 gMonShinyPalette_VenusaurMega[];
 extern const u32 gMonShinyPalette_CharizardMegaX[];
@@ -5918,6 +5922,7 @@ extern const u8 gMonIcon_Cyclohm[];
 extern const u8 gMonIcon_Fidgit[];
 extern const u8 gMonIcon_Kitsunoh[];
 extern const u8 gMonIcon_Malaconda[];
+extern const u8 gMonIcon_Miasmaw[];
 
 extern const u8 gMonIcon_VenusaurMega[];
 extern const u8 gMonIcon_CharizardMegaX[];
@@ -7140,6 +7145,7 @@ extern const u8 gMonFootprint_Cyclohm[];
 extern const u8 gMonFootprint_Fidgit[];
 extern const u8 gMonFootprint_Kitsunoh[];
 extern const u8 gMonFootprint_Malaconda[];
+extern const u8 gMonFootprint_Miasmaw[];
 
 
 // trainer sprites

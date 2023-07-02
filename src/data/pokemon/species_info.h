@@ -21263,6 +21263,33 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .noFlip = FALSE,
     },
 
+    [SPECIES_MIASMAW] =
+    {
+        .baseHP        = 85,
+        .baseAttack    = 135,
+        .baseDefense   = 60,
+        .baseSpeed     = 99,
+        .baseSpAttack  = 88,
+        .baseSpDefense = 105,
+        .types = { TYPE_BUG, TYPE_DRAGON },
+        .catchRate = 128,
+        .expYield = 80,
+        .evYield_HP        = 0,
+        .evYield_Attack    = 0,
+        .evYield_Defense   = 0,
+        .evYield_SpAttack  = 0,
+        .evYield_SpDefense = 0,
+        .evYield_Speed     = 0,
+        .genderRatio = 128,
+        .eggCycles = 20,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_MEDIUM_FAST,
+        .eggGroups = { EGG_GROUP_UNDISCOVERED, EGG_GROUP_WATER_2 },
+        .abilities = { ABILITY_COMPOUND_EYES, ABILITY_HYPER_CUTTER, ABILITY_NEUTRALIZING_GAS },
+        .bodyColor = BODY_COLOR_BLUE,
+        .noFlip = FALSE,
+    },
+
 
     [SPECIES_VENUSAUR_MEGA] =
     {
