@@ -919,6 +919,7 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
     [SPECIES_VOODOOM] = _("Voodoom"),
     [SPECIES_CARIBOLT] = _("Caribolt"),
     [SPECIES_COLOSSOIL] = _("Colossoil"),
+    [SPECIES_CYCLOHM] = _("Cyclohm"),
 
 
     // Megas
