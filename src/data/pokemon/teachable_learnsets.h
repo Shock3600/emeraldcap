@@ -32122,6 +32122,10 @@ static const u16 sFidgitTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 
+static const u16 sKitsunohTeachableLearnset[] = {
+    MOVE_UNAVAILABLE,
+};
+
 
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,

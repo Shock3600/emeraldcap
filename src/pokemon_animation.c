@@ -1114,6 +1114,7 @@ static const u8 sSpeciesToBackAnimSet[NUM_SPECIES] =
     [SPECIES_COLOSSOIL]                    = BACK_ANIM_NONE,
     [SPECIES_CYCLOHM]                      = BACK_ANIM_NONE,
     [SPECIES_FIDGIT]                       = BACK_ANIM_NONE,
+    [SPECIES_KITSUNOH]                     = BACK_ANIM_NONE,
     
 };
 
