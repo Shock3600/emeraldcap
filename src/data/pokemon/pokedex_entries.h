@@ -10906,4 +10906,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_CARIBOLT] =
+    {
+        .categoryName = _("Caribolt"),
+        .height = 10,
+        .weight = 100,
+        .description = gCariboltPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

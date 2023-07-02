@@ -917,6 +917,7 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
 #endif
     [SPECIES_STRATAGEM] = _("Stratagem"),
     [SPECIES_VOODOOM] = _("Voodoom"),
+    [SPECIES_CARIBOLT] = _("Caribolt"),
 
 
     // Megas
