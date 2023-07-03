@@ -4449,6 +4449,10 @@ const u16 gEggMoves[] = {
         MOVE_DEFENSE_CURL,
         MOVE_ROLLOUT,
         MOVE_WOOD_HAMMER),
+    egg_moves(MOLLUX,
+        MOVE_AQUA_RING,
+        MOVE_HEAL_PULSE,
+        MOVE_RAPID_SPIN),
 
     EGG_MOVES_TERMINATOR
 };

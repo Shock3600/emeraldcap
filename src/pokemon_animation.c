@@ -1123,6 +1123,7 @@ static const u8 sSpeciesToBackAnimSet[NUM_SPECIES] =
     [SPECIES_REVENANKH]                    = BACK_ANIM_NONE,
     [SPECIES_KRILOWATT]                    = BACK_ANIM_NONE,
     [SPECIES_CRUCIBELLE]                   = BACK_ANIM_NONE,
+    [SPECIES_MOLLUX]                       = BACK_ANIM_NONE,
     
 };
 

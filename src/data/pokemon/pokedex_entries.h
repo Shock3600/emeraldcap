@@ -11062,4 +11062,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_MOLLUX] =
+    {
+        .categoryName = _("Mollux"),
+        .height = 10,
+        .weight = 100,
+        .description = gMolluxPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

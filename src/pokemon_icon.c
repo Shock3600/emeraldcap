@@ -957,6 +957,7 @@ const u8 *const gMonIconTable[] =
     [SPECIES_REVENANKH] = gMonIcon_Revenankh,
     [SPECIES_KRILOWATT] = gMonIcon_Krilowatt,
     [SPECIES_CRUCIBELLE] = gMonIcon_Crucibelle,
+    [SPECIES_MOLLUX] = gMonIcon_Mollux,
 
     [SPECIES_VENUSAUR_MEGA] = gMonIcon_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = gMonIcon_CharizardMegaX,
@@ -2266,6 +2267,7 @@ const u8 gMonIconPaletteIndices[] =
     [SPECIES_REVENANKH] = 1,
     [SPECIES_KRILOWATT] = 1,
     [SPECIES_CRUCIBELLE] = 1,
+    [SPECIES_MOLLUX] = 1,
     [SPECIES_VENUSAUR_MEGA] = 1,
     [SPECIES_CHARIZARD_MEGA_X] = 0,
     [SPECIES_CHARIZARD_MEGA_Y] = 0,

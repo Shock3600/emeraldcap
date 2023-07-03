@@ -631,4 +631,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 },
     [SPECIES_CRUCIBELLE]            = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
 },
+    [SPECIES_MOLLUX]                = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };
