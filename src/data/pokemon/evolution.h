@@ -635,4 +635,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 },
     [SPECIES_EQUILIBRA]             = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
 },
+    [SPECIES_NAVIATHAN]             = {{EVO_LEVEL, 1, SPECIES_BULBASAUR},
+},
 };

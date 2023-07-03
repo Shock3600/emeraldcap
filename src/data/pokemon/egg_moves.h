@@ -4454,5 +4454,11 @@ const u16 gEggMoves[] = {
         MOVE_HEAL_PULSE,
         MOVE_RAPID_SPIN),
 
+    egg_moves(NAVIATHAN,
+        MOVE_BITE,
+        MOVE_FEATHER_DANCE,
+        MOVE_FEINT,
+        MOVE_HAZE),
+
     EGG_MOVES_TERMINATOR
 };

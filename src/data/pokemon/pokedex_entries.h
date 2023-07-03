@@ -11086,4 +11086,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_NAVIATHAN] =
+    {
+        .categoryName = _("Naviathan"),
+        .height = 10,
+        .weight = 100,
+        .description = gNaviathanPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
