@@ -4438,6 +4438,12 @@ const u16 gEggMoves[] = {
         MOVE_MACH_PUNCH,
         MOVE_MEMENTO,
         MOVE_MIMIC),
+    egg_moves(KRILOWATT,
+        MOVE_COUNTER,
+        MOVE_ENTRAINMENT,
+        MOVE_FOLLOW_ME,
+        MOVE_MIRROR_COAT,
+        MOVE_SHEER_COLD),
 
     EGG_MOVES_TERMINATOR
 };

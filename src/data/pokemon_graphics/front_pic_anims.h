@@ -9577,6 +9577,11 @@ static const union AnimCmd sAnim_Revenankh_1[] =
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
+static const union AnimCmd sAnim_Krilowatt_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
 
 
 static const union AnimCmd sAnim_VenusaurMega_1[] =
@@ -11547,6 +11552,7 @@ SINGLE_ANIMATION(Snaelstrom);
 SINGLE_ANIMATION(Syclant);
 SINGLE_ANIMATION(Tomohawk);
 SINGLE_ANIMATION(Revenankh);
+SINGLE_ANIMATION(Krilowatt);
 
 SINGLE_ANIMATION(VenusaurMega);
 SINGLE_ANIMATION(CHARIZARD_MEGA_X);
@@ -12648,6 +12654,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     [SPECIES_SYCLANT]     = sAnims_Syclant,
     [SPECIES_TOMOHAWK]    = sAnims_Tomohawk,
     [SPECIES_REVENANKH]   = sAnims_Revenankh,
+    [SPECIES_KRILOWATT]   = sAnims_Krilowatt,
 
     [SPECIES_VENUSAUR_MEGA] = sAnims_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = sAnims_CHARIZARD_MEGA_X,

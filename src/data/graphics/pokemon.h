@@ -940,6 +940,7 @@ const u32 gMonFrontPic_Snaelstrom[] = INCBIN_U32("graphics/pokemon/snaelstrom/an
 const u32 gMonFrontPic_Syclant[] = INCBIN_U32("graphics/pokemon/syclant/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Tomohawk[] = INCBIN_U32("graphics/pokemon/tomohawk/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Revenankh[] = INCBIN_U32("graphics/pokemon/revenankh/anim_front.4bpp.lz");
+const u32 gMonFrontPic_Krilowatt[] = INCBIN_U32("graphics/pokemon/krilowatt/anim_front.4bpp.lz");
 
 const u32 gMonFrontPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/front.4bpp.lz");
 const u32 gMonFrontPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/front.4bpp.lz");
@@ -2166,6 +2167,7 @@ const u32 gMonBackPic_Snaelstrom[] = INCBIN_U32("graphics/pokemon/snaelstrom/bac
 const u32 gMonBackPic_Syclant[] = INCBIN_U32("graphics/pokemon/syclant/back.4bpp.lz");
 const u32 gMonBackPic_Tomohawk[] = INCBIN_U32("graphics/pokemon/tomohawk/back.4bpp.lz");
 const u32 gMonBackPic_Revenankh[] = INCBIN_U32("graphics/pokemon/revenankh/back.4bpp.lz");
+const u32 gMonBackPic_Krilowatt[] = INCBIN_U32("graphics/pokemon/krilowatt/back.4bpp.lz");
 
 const u32 gMonBackPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/back.4bpp.lz");
 const u32 gMonBackPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/back.4bpp.lz");
@@ -3386,6 +3388,7 @@ const u32 gMonPalette_Snaelstrom[] = INCBIN_U32("graphics/pokemon/snaelstrom/nor
 const u32 gMonPalette_Syclant[] = INCBIN_U32("graphics/pokemon/syclant/normal.gbapal.lz");
 const u32 gMonPalette_Tomohawk[] = INCBIN_U32("graphics/pokemon/tomohawk/normal.gbapal.lz");
 const u32 gMonPalette_Revenankh[] = INCBIN_U32("graphics/pokemon/revenankh/normal.gbapal.lz");
+const u32 gMonPalette_Krilowatt[] = INCBIN_U32("graphics/pokemon/krilowatt/normal.gbapal.lz");
 
 const u32 gMonPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/normal.gbapal.lz");
 const u32 gMonPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/normal.gbapal.lz");
@@ -4633,6 +4636,7 @@ const u32 gMonShinyPalette_Snaelstrom[] = INCBIN_U32("graphics/pokemon/snaelstro
 const u32 gMonShinyPalette_Syclant[] = INCBIN_U32("graphics/pokemon/syclant/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Tomohawk[] = INCBIN_U32("graphics/pokemon/tomohawk/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Revenankh[] = INCBIN_U32("graphics/pokemon/revenankh/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Krilowatt[] = INCBIN_U32("graphics/pokemon/krilowatt/shiny.gbapal.lz");
 
 const u32 gMonShinyPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/shiny.gbapal.lz");
 const u32 gMonShinyPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/shiny.gbapal.lz");
@@ -5874,6 +5878,7 @@ const u8 gMonIcon_Snaelstrom[] = INCBIN_U8("graphics/pokemon/snaelstrom/icon.4bp
 const u8 gMonIcon_Syclant[] = INCBIN_U8("graphics/pokemon/syclant/icon.4bpp");
 const u8 gMonIcon_Tomohawk[] = INCBIN_U8("graphics/pokemon/tomohawk/icon.4bpp");
 const u8 gMonIcon_Revenankh[] = INCBIN_U8("graphics/pokemon/revenankh/icon.4bpp");
+const u8 gMonIcon_Krilowatt[] = INCBIN_U8("graphics/pokemon/krilowatt/icon.4bpp");
 
 const u8 gMonIcon_VenusaurMega[] = INCBIN_U8("graphics/pokemon/venusaur/mega/icon.4bpp");
 const u8 gMonIcon_CharizardMegaX[] = INCBIN_U8("graphics/pokemon/charizard/mega_x/icon.4bpp");
@@ -7101,4 +7106,5 @@ const u8 gMonFootprint_Snaelstrom[] = INCBIN_U8("graphics/pokemon/snaelstrom/foo
 const u8 gMonFootprint_Syclant[] = INCBIN_U8("graphics/pokemon/syclant/footprint.1bpp");
 const u8 gMonFootprint_Tomohawk[] = INCBIN_U8("graphics/pokemon/tomohawk/footprint.1bpp");
 const u8 gMonFootprint_Revenankh[] = INCBIN_U8("graphics/pokemon/revenankh/footprint.1bpp");
+const u8 gMonFootprint_Krilowatt[] = INCBIN_U8("graphics/pokemon/krilowatt/footprint.1bpp");
 
