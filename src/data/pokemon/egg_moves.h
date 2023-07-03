@@ -4459,6 +4459,10 @@ const u16 gEggMoves[] = {
         MOVE_FEATHER_DANCE,
         MOVE_FEINT,
         MOVE_HAZE),
+    egg_moves(KERFLUFFLE,
+        MOVE_QUICK_GUARD,
+        MOVE_WIDE_GUARD,
+        MOVE_WISH),
 
     EGG_MOVES_TERMINATOR
 };

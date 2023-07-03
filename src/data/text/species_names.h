@@ -933,6 +933,7 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
     [SPECIES_MOLLUX] = _("Mollux"),
     [SPECIES_EQUILIBRA] = _("Equilibra"),
     [SPECIES_NAVIATHAN] = _("Naviathan"),
+    [SPECIES_KERFLUFFLE] = _("Kerfluffle"),
 
 
     // Megas

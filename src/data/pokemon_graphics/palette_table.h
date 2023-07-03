@@ -934,6 +934,7 @@ const struct CompressedSpritePalette gMonPaletteTable[] =
     SPECIES_PAL(MOLLUX, gMonPalette_Mollux),
     SPECIES_PAL(EQUILIBRA, gMonPalette_Equilibra),
     SPECIES_PAL(NAVIATHAN, gMonPalette_Naviathan),
+    SPECIES_PAL(KERFLUFFLE, gMonPalette_Kerfluffle),
 
     SPECIES_PAL(VENUSAUR_MEGA, gMonPalette_VenusaurMega),
     SPECIES_PAL(CHARIZARD_MEGA_X, gMonPalette_CharizardMegaX),

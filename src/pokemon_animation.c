@@ -1126,6 +1126,7 @@ static const u8 sSpeciesToBackAnimSet[NUM_SPECIES] =
     [SPECIES_MOLLUX]                       = BACK_ANIM_NONE,
     [SPECIES_EQUILIBRA]                    = BACK_ANIM_NONE,
     [SPECIES_NAVIATHAN]                    = BACK_ANIM_NONE,
+    [SPECIES_KERFLUFFLE]                   = BACK_ANIM_NONE,
     
 };
 
