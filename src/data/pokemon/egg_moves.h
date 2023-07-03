@@ -4430,5 +4430,14 @@ const u16 gEggMoves[] = {
         MOVE_EARTH_POWER,
         MOVE_FELL_STINGER),
 
+    egg_moves(REVENANKH,
+        MOVE_COUNTER,
+        MOVE_CURSE,
+        MOVE_DESTINY_BOND,
+        MOVE_FORCE_PALM,
+        MOVE_MACH_PUNCH,
+        MOVE_MEMENTO,
+        MOVE_MIMIC),
+
     EGG_MOVES_TERMINATOR
 };

@@ -928,6 +928,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[] =
     SPECIES_SPRITE(SNAELSTROM, gMonFrontPic_Snaelstrom),
     SPECIES_SPRITE(SYCLANT, gMonFrontPic_Syclant),
     SPECIES_SPRITE(TOMOHAWK, gMonFrontPic_Tomohawk),
+    SPECIES_SPRITE(REVENANKH, gMonFrontPic_Revenankh),
 
     SPECIES_SPRITE(VENUSAUR_MEGA, gMonFrontPic_VenusaurMega),
     SPECIES_SPRITE(CHARIZARD_MEGA_X, gMonFrontPic_CharizardMegaX),

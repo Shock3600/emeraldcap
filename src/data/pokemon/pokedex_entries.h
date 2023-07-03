@@ -11026,4 +11026,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_REVENANKH] =
+    {
+        .categoryName = _("Revenankh"),
+        .height = 10,
+        .weight = 100,
+        .description = gRevenankhPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
