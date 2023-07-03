@@ -11014,4 +11014,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_TOMOHAWK] =
+    {
+        .categoryName = _("Tomohawk"),
+        .height = 10,
+        .weight = 100,
+        .description = gTomohawkPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };

@@ -32187,6 +32187,10 @@ static const u16 sSyclantTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 
+static const u16 sTomohawkTeachableLearnset[] = {
+    MOVE_UNAVAILABLE,
+};
+
 
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,
