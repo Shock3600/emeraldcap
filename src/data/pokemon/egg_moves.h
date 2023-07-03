@@ -4444,6 +4444,11 @@ const u16 gEggMoves[] = {
         MOVE_FOLLOW_ME,
         MOVE_MIRROR_COAT,
         MOVE_SHEER_COLD),
+    egg_moves(CRUCIBELLE,
+        MOVE_BLOCK,
+        MOVE_DEFENSE_CURL,
+        MOVE_ROLLOUT,
+        MOVE_WOOD_HAMMER),
 
     EGG_MOVES_TERMINATOR
 };

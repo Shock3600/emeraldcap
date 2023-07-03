@@ -11050,4 +11050,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_CRUCIBELLE] =
+    {
+        .categoryName = _("Crucibelle"),
+        .height = 10,
+        .weight = 100,
+        .description = gCrucibellePokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
