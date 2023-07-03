@@ -936,6 +936,7 @@ const struct MonCoords gMonFrontPicCoords[] =
     [SPECIES_KRILOWATT]                    = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
     [SPECIES_CRUCIBELLE]                   = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
     [SPECIES_MOLLUX]                       = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
+    [SPECIES_EQUILIBRA]                    = { .size = MON_COORDS_SIZE(64, 64), .y_offset = 0 },
 
     // Megas
     [SPECIES_VENUSAUR_MEGA]                = { .size = MON_COORDS_SIZE(64, 64), .y_offset =  3 },

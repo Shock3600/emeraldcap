@@ -32408,6 +32408,40 @@ static const u16 sMolluxTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 
+static const u16 sEquilibraTeachableLearnset[] = {
+    MOVE_HYPER_BEAM,
+    MOVE_GIGA_IMPACT,
+    MOVE_SAFEGUARD,
+    MOVE_REST,
+    MOVE_ROCK_SLIDE,
+    MOVE_SNORE,
+    MOVE_PROTECT,
+    MOVE_SANDSTORM,
+    MOVE_FACADE,
+    MOVE_HELPING_HAND,
+    MOVE_ROCK_TOMB,
+    MOVE_TRICK_ROOM,
+    MOVE_WONDER_ROOM,
+    MOVE_MAGIC_ROOM,
+    MOVE_ROUND,
+    MOVE_BULLDOZE,
+    MOVE_SMART_STRIKE,
+    MOVE_BODY_SLAM,
+    MOVE_EARTHQUAKE,
+    MOVE_SUBSTITUTE,
+    MOVE_SLEEP_TALK,
+    MOVE_IRON_TAIL,
+    MOVE_IRON_DEFENSE,
+    MOVE_GYRO_BALL,
+    MOVE_EARTH_POWER,
+    MOVE_FLASH_CANNON,
+    MOVE_IRON_HEAD,
+    MOVE_ALLY_SWITCH,
+    MOVE_WORK_UP,
+    MOVE_DRILL_RUN,
+    MOVE_UNAVAILABLE,
+};
+
 
 static const u16 sRattataAlolanTeachableLearnset[] = {
     MOVE_BLIZZARD,

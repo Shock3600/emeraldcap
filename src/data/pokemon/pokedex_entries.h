@@ -11074,4 +11074,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_EQUILIBRA] =
+    {
+        .categoryName = _("Equilibra"),
+        .height = 10,
+        .weight = 100,
+        .description = gEquilibraPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
