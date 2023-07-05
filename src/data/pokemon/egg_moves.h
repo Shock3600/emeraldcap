@@ -4468,6 +4468,9 @@ const u16 gEggMoves[] = {
         MOVE_HEALING_WISH,
         MOVE_WOOD_HAMMER,
         MOVE_WORRY_SEED),
+    egg_moves(PAJANTOM,
+        MOVE_POISON_FANG,
+        MOVE_SPITE),
 
     EGG_MOVES_TERMINATOR
 };

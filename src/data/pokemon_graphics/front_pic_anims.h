@@ -9612,6 +9612,11 @@ static const union AnimCmd sAnim_Jumbao_1[] =
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
+static const union AnimCmd sAnim_Pajantom_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
 
 
 static const union AnimCmd sAnim_VenusaurMega_1[] =
@@ -11589,6 +11594,7 @@ SINGLE_ANIMATION(Equilibra);
 SINGLE_ANIMATION(Naviathan);
 SINGLE_ANIMATION(Kerfluffle);
 SINGLE_ANIMATION(Jumbao);
+SINGLE_ANIMATION(Pajantom);
 
 SINGLE_ANIMATION(VenusaurMega);
 SINGLE_ANIMATION(CHARIZARD_MEGA_X);
@@ -12697,6 +12703,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     [SPECIES_NAVIATHAN]   = sAnims_Naviathan,
     [SPECIES_KERFLUFFLE]  = sAnims_Kerfluffle,
     [SPECIES_JUMBAO]      = sAnims_Jumbao,
+    [SPECIES_PAJANTOM]    = sAnims_Pajantom,
 
     [SPECIES_VENUSAUR_MEGA] = sAnims_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = sAnims_CHARIZARD_MEGA_X,

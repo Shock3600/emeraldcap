@@ -11122,4 +11122,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_PAJANTOM] =
+    {
+        .categoryName = _("Pajantom"),
+        .height = 10,
+        .weight = 100,
+        .description = gPajantomPokedexText,
+        .pokemonScale = 255,
+        .pokemonOffset = 0,
+        .trainerScale = 255,
+        .trainerOffset = 0,
+    },
+
 };
