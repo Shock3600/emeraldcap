@@ -4463,6 +4463,11 @@ const u16 gEggMoves[] = {
         MOVE_QUICK_GUARD,
         MOVE_WIDE_GUARD,
         MOVE_WISH),
+    egg_moves(JUMBAO,
+        MOVE_EXPLOSION,
+        MOVE_HEALING_WISH,
+        MOVE_WOOD_HAMMER,
+        MOVE_WORRY_SEED),
 
     EGG_MOVES_TERMINATOR
 };

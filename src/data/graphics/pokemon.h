@@ -946,6 +946,7 @@ const u32 gMonFrontPic_Mollux[] = INCBIN_U32("graphics/pokemon/mollux/anim_front
 const u32 gMonFrontPic_Equilibra[] = INCBIN_U32("graphics/pokemon/equilibra/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Naviathan[] = INCBIN_U32("graphics/pokemon/naviathan/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Kerfluffle[] = INCBIN_U32("graphics/pokemon/kerfluffle/anim_front.4bpp.lz");
+const u32 gMonFrontPic_Jumbao[] = INCBIN_U32("graphics/pokemon/jumbao/anim_front.4bpp.lz");
 
 const u32 gMonFrontPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/front.4bpp.lz");
 const u32 gMonFrontPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/front.4bpp.lz");
@@ -2178,6 +2179,7 @@ const u32 gMonBackPic_Mollux[] = INCBIN_U32("graphics/pokemon/mollux/back.4bpp.l
 const u32 gMonBackPic_Equilibra[] = INCBIN_U32("graphics/pokemon/equilibra/back.4bpp.lz");
 const u32 gMonBackPic_Naviathan[] = INCBIN_U32("graphics/pokemon/naviathan/back.4bpp.lz");
 const u32 gMonBackPic_Kerfluffle[] = INCBIN_U32("graphics/pokemon/kerfluffle/back.4bpp.lz");
+const u32 gMonBackPic_Jumbao[] = INCBIN_U32("graphics/pokemon/jumbao/back.4bpp.lz");
 
 const u32 gMonBackPic_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/back.4bpp.lz");
 const u32 gMonBackPic_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/back.4bpp.lz");
@@ -3404,6 +3406,7 @@ const u32 gMonPalette_Mollux[] = INCBIN_U32("graphics/pokemon/mollux/normal.gbap
 const u32 gMonPalette_Equilibra[] = INCBIN_U32("graphics/pokemon/equilibra/normal.gbapal.lz");
 const u32 gMonPalette_Naviathan[] = INCBIN_U32("graphics/pokemon/naviathan/normal.gbapal.lz");
 const u32 gMonPalette_Kerfluffle[] = INCBIN_U32("graphics/pokemon/kerfluffle/normal.gbapal.lz");
+const u32 gMonPalette_Jumbao[] = INCBIN_U32("graphics/pokemon/jumbao/normal.gbapal.lz");
 
 const u32 gMonPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/normal.gbapal.lz");
 const u32 gMonPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/normal.gbapal.lz");
@@ -4657,6 +4660,7 @@ const u32 gMonShinyPalette_Mollux[] = INCBIN_U32("graphics/pokemon/mollux/shiny.
 const u32 gMonShinyPalette_Equilibra[] = INCBIN_U32("graphics/pokemon/equilibra/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Naviathan[] = INCBIN_U32("graphics/pokemon/naviathan/shiny.gbapal.lz");
 const u32 gMonShinyPalette_Kerfluffle[] = INCBIN_U32("graphics/pokemon/kerfluffle/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Jumbao[] = INCBIN_U32("graphics/pokemon/jumbao/shiny.gbapal.lz");
 
 const u32 gMonShinyPalette_VenusaurMega[] = INCBIN_U32("graphics/pokemon/venusaur/mega/shiny.gbapal.lz");
 const u32 gMonShinyPalette_CharizardMegaX[] = INCBIN_U32("graphics/pokemon/charizard/mega_x/shiny.gbapal.lz");
@@ -5904,6 +5908,7 @@ const u8 gMonIcon_Mollux[] = INCBIN_U8("graphics/pokemon/mollux/icon.4bpp");
 const u8 gMonIcon_Equilibra[] = INCBIN_U8("graphics/pokemon/equilibra/icon.4bpp");
 const u8 gMonIcon_Naviathan[] = INCBIN_U8("graphics/pokemon/naviathan/icon.4bpp");
 const u8 gMonIcon_Kerfluffle[] = INCBIN_U8("graphics/pokemon/kerfluffle/icon.4bpp");
+const u8 gMonIcon_Jumbao[] = INCBIN_U8("graphics/pokemon/jumbao/icon.4bpp");
 
 const u8 gMonIcon_VenusaurMega[] = INCBIN_U8("graphics/pokemon/venusaur/mega/icon.4bpp");
 const u8 gMonIcon_CharizardMegaX[] = INCBIN_U8("graphics/pokemon/charizard/mega_x/icon.4bpp");
@@ -7137,4 +7142,5 @@ const u8 gMonFootprint_Mollux[] = INCBIN_U8("graphics/pokemon/mollux/footprint.1
 const u8 gMonFootprint_Equilibra[] = INCBIN_U8("graphics/pokemon/equilibra/footprint.1bpp");
 const u8 gMonFootprint_Naviathan[] = INCBIN_U8("graphics/pokemon/naviathan/footprint.1bpp");
 const u8 gMonFootprint_Kerfluffle[] = INCBIN_U8("graphics/pokemon/kerfluffle/footprint.1bpp");
+const u8 gMonFootprint_Jumbao[] = INCBIN_U8("graphics/pokemon/jumbao/footprint.1bpp");
 

@@ -961,6 +961,7 @@ const u8 *const gMonIconTable[] =
     [SPECIES_EQUILIBRA] = gMonIcon_Equilibra,
     [SPECIES_NAVIATHAN] = gMonIcon_Naviathan,
     [SPECIES_KERFLUFFLE] = gMonIcon_Kerfluffle,
+    [SPECIES_JUMBAO] = gMonIcon_Jumbao,
 
     [SPECIES_VENUSAUR_MEGA] = gMonIcon_VenusaurMega,
     [SPECIES_CHARIZARD_MEGA_X] = gMonIcon_CharizardMegaX,
@@ -2274,6 +2275,7 @@ const u8 gMonIconPaletteIndices[] =
     [SPECIES_EQUILIBRA] = 1,
     [SPECIES_NAVIATHAN] = 1,
     [SPECIES_KERFLUFFLE] = 1,
+    [SPECIES_JUMBAO] = 1,
     [SPECIES_VENUSAUR_MEGA] = 1,
     [SPECIES_CHARIZARD_MEGA_X] = 0,
     [SPECIES_CHARIZARD_MEGA_Y] = 0,
